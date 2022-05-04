@@ -1,4 +1,0 @@
-TestAgentPath=D:\a\1\s
-BuildConfiguration=release
-BuildPlatform=AnyCPU
-config_path=D:\a\1\s\target\release\AnyCPU\TAConfig.config
